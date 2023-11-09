@@ -12,13 +12,14 @@
    },
    "dependencies": {
       "body-parser": "^1.19.1",
+      "cors": "^2.8.5",
       "express": "^4.17.2",
       "pg": "^8.4.0",
       "reflect-metadata": "^0.1.13",
       "typeorm": "0.3.17"
    },
    "scripts": {
-      "start": "nodemon src/index.ts",
+      "start": "nodemon --watch src --exec ts-node src/index.ts",
       "typeorm": "typeorm-ts-node-commonjs"
    }
 }
