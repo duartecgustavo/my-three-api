@@ -11,10 +11,10 @@ import {
 const routes = Router();
 
 routes.get("/", (request: Request, response: Response) => {
-  return response.json({ message: "É 13 PORRA!!!" });
+  return response.json({ message: "API UP" });
 });
 routes.get("/home", (request: Request, response: Response) => {
-  return response.json({ message: "É 13 PORRA!!!" });
+  return response.json({ message: "API UP" });
 });
 
 routes.get("/users", getUsers);
