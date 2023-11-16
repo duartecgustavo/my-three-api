@@ -19,7 +19,7 @@
 - Nodemon
 
 ## Banco de Dados:
-- Beekeeper
+- Beekeeper | Postgres
 
 ---
 
