@@ -8,23 +8,18 @@
 ## COMO RODAR LOCAL:
 - Clonar repositorio.
 - Rodar o comando "npm install" ou "yarn".
-- Executar o comando "npm run start" ou "yarn start".
+- Executar o comando "npm run dev" ou "yarn dev".
 
 ## TECNOLOGIAS:
-- React
+- NodeJS
 - Axios
-- Formik
-- Styled Components
-- React Router Dom
+- Express
+- Cors
+- Sequelize
+- Nodemon
 
-## Consumo API:
-- Consumida a API do Chatgpt3.
-- Consumidas rotas de POST e GET da API do próprio MyTree
-
----
-
-## LINK FIGMA:
-https://www.figma.com/file/03jgOVmSKaK7xHxhX5awgG/atividadefase2?node-id=0-1&t=hkikT1CBP1r5huzU-0
+## Banco de Dados:
+- Beekeeper
 
 ---
 
