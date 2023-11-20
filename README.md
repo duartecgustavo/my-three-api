@@ -1,7 +1,7 @@
 # Atividade 2 - ESG Platform - FASE 7 - MyTree Backend (API)
 
 ## LINK DEPLOY:
-[https://my-tree-three.vercel.app/](https://my-three-api.vercel.app/)
+https://my-three-api.vercel.app/
 
 ---
 
@@ -15,8 +15,9 @@
 - Axios
 - Express
 - Cors
-- Sequelize
+- Typeorm
 - Nodemon
+- Typescript
 
 ## Banco de Dados:
 - Beekeeper | Postgres
